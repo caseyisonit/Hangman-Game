@@ -1,0 +1,14 @@
+.wrap-all {
+    margin: 0 auto;
+    width: 960px;
+}
+
+body {
+        background: #eee;
+        background-image: url("../images/floor-tile.png");
+        font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+}
